@@ -1,18 +1,24 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div>
+    <vuppy v-model="images" locale="cs_CZ"></vuppy>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+
+import vuppy from 'vuppy'
 
 export default {
-  name: 'App',
   components: {
-    HelloWorld
+    vuppy
+  },
+
+  data() {
+    return {
+      images: []
+    }
   }
+
 }
 </script>
 
