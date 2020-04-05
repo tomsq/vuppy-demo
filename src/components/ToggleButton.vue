@@ -45,7 +45,7 @@ export default {
 
     computed: {
         buttonText() {
-            if(this.value) {
+            if(!this.value) {
                 return 'Toggle Mobile';
             } else {
                 return 'Toggle Desktop';
