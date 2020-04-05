@@ -11,7 +11,8 @@
     "core-js": "^3.6.4",
     "vue": "^2.6.11",
     "vue-json-component": "^0.4.1",
-    "vuppy": "^0.2.2"
+    "vue-splitpane": "^1.0.6",
+    "vuppy": "^0.2.4"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.2.0",

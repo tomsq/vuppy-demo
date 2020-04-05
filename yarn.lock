@@ -5968,9 +5968,9 @@ p-limit@^1.1.0:
     p-try "^1.0.0"
 
 p-limit@^2.0.0, p-limit@^2.2.0, p-limit@^2.2.1, p-limit@^2.2.2:
-  version "2.2.2"
-  resolved "https://registry.yarnpkg.com/p-limit/-/p-limit-2.2.2.tgz#61279b67721f5287aa1c13a9a7fbbc48c9291b1e"
-  integrity sha512-WGR+xHecKTr7EbUEhyLSh5Dube9JtdiG78ufaeLxTgpudf/20KqyMioIUZJAezlTIi6evxuoUs9YXc11cU+yzQ==
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/p-limit/-/p-limit-2.3.0.tgz#3dd33c647a214fdfffd835933eb086da0dc21db1"
+  integrity sha512-//88mFWSJx8lxCzwdAABTJL2MyWB12+eIY7MDL2SqLmAkeKU9qxRvWuSyTjm3FUmpBEMuFfckAIqEaVGUDxb6w==
   dependencies:
     p-try "^2.0.0"
 
@@ -8388,6 +8388,11 @@ vue-loader@^15.9.1:
     vue-hot-reload-api "^2.3.0"
     vue-style-loader "^4.1.0"
 
+vue-splitpane@^1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/vue-splitpane/-/vue-splitpane-1.0.6.tgz#c4667bfdd8e10ced5d23d09fe8a129585c2c04c0"
+  integrity sha512-6sneVSEeF1VsCD025HP93nRxwzYhv3rotCeYi2Ah1FmGxwtfqbCZEIzaHGberdGNCpMlEzGD/1OIE1kK5QukLA==
+
 vue-style-loader@^4.1.0, vue-style-loader@^4.1.2:
   version "4.1.2"
   resolved "https://registry.yarnpkg.com/vue-style-loader/-/vue-style-loader-4.1.2.tgz#dedf349806f25ceb4e64f3ad7c0a44fba735fcf8"
@@ -8414,10 +8419,10 @@ vue@^2.6.11:
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.11.tgz#76594d877d4b12234406e84e35275c6d514125c5"
   integrity sha512-VfPwgcGABbGAue9+sfrD4PuwFar7gPb1yl1UK1MwXoQPAw0BKSqWfoYCT/ThFrdEVWoI51dBuyCoiNU9bZDZxQ==
 
-vuppy@^0.2.2:
-  version "0.2.4"
-  resolved "https://registry.yarnpkg.com/vuppy/-/vuppy-0.2.4.tgz#f57a8efe26c3932fb4739a7d9a12ed521154d2b5"
-  integrity sha512-S2AEXJNy84QLdGwDgvnMQEx9O1ZlFwrVLoJHqpFiuKWrvXvmTlPjkxm0TE0OYB9Nhi36ZVo7HLMRD6MXNuROVA==
+vuppy@^0.2.4:
+  version "0.2.5"
+  resolved "https://registry.yarnpkg.com/vuppy/-/vuppy-0.2.5.tgz#60e7652ebe147d68ae4ff8608b42fcf518a509d6"
+  integrity sha512-uv3ib9IWcIoSmTzBmMyd8E22vj4MAQ7thOQsiIEin/XEt4s5IyHKdI+6daHjx8e3KFBLRtyt6Ldvo+JzuBNYfA==
   dependencies:
     "@uppy/core" "^1.9.0"
     "@uppy/dashboard" "^1.7.0"
