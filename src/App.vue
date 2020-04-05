@@ -1,6 +1,6 @@
 <template>
   <div class="h-screen">
-    <h1 class="pt-10 flex justify-center text-4xl">Vuppy - Demo</h1>
+    <h1 class="pt-10 flex justify-center text-4xl text-gray-800">Vuppy - Demo</h1>
 
     <div class="md:flex md:w-full md:justify-around items-center pt-16 px-8">
       <div class="w-full md:w-1/2 flex justify-center">
